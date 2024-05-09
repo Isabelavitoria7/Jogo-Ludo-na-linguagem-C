@@ -1,4 +1,4 @@
-Meu primeiro projeto, há melhorias a serem feitas!
+Meu primeiro projeto!
 Desenvolvimento de um jogo de tabuleiro, Ludo, na linguagem C. Prática de conceitos vistos acerca de Algoritmos e Estruturas
 de Dados I (estruturas, funções, arrays, alocação dinâmica de memória, ponteiros)
 
